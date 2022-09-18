@@ -4,8 +4,11 @@
 
 ### My projects
 1. __Chill Time__
+
 ![Header](https://github.com/ZIzaGrand/ZizaGrand/blob/main/assets/Снимок.PNG)
+
 2. __Portfolio__
+
 [![Header](https://github.com/ZIzaGrand/ZizaGrand/blob/main/assets/porfolio.PNG)](https://zhukovdenis.ru/)
 
 
