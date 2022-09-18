@@ -2,7 +2,13 @@
 
 ## Привет, меня зовут Денис, я люблю и занимаюсь фронтэндом. Увлекаюсь раскраской моделей и хорошо рисую в CG.
 
-My projects
+### My projects
+1. __Chill Time__
+![Header](https://github.com/ZIzaGrand/ZizaGrand/blob/main/assets/Снимок.PNG)
+2. __Portfolio__
+[![Header](https://github.com/ZIzaGrand/ZizaGrand/blob/main/assets/porfolio.PNG)](https://zhukovdenis.ru/)
+
+
 
 ### Languages and Tools
 ![Flutter](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python)
