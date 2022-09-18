@@ -1,9 +1,18 @@
-[![Header](https://github.com/ZIzaGrand/ZizaGrand/blob/main/assets/photo_2022-09-10_10-52-14.jpg)]
+![Header](https://github.com/ZIzaGrand/ZizaGrand/blob/main/assets/photo_2022-09-10_10-52-14.jpg)
 
-Aboute me
+## Привет, меня зовут Денис, я люблю и занимаюсь фронтэндом. Увлекаюсь раскраской моделей и хорошо рисую в CG.
 
 My projects
 
-Languages and Tools
+### Languages and Tools
+![Flutter](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python)
+![Flutter](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=JavaScript)
+![Flutter](https://img.shields.io/badge/MSSQL-000000?style=for-the-badge)
+![Flutter](https://img.shields.io/badge/Hive-000000?style=for-the-badge&logo=Hive)
+![Flutter](https://img.shields.io/badge/HTML-000000?style=for-the-badge&logo=HTML5)
+![Flutter](https://img.shields.io/badge/CSS-000000?style=for-the-badge&logo=)
+![Flutter](https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=Figma)
+![Flutter](https://img.shields.io/badge/Photoshop-000000?style=for-the-badge&logo=AdobePhotoshop)
+![Flutter](https://img.shields.io/badge/react-000000?style=for-the-badge&logo=react)
 
 Follow me
